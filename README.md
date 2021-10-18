@@ -1,4 +1,4 @@
-# epfl_roaming and manage_cred
+# epfl_roaming and manage_credentials
 
 
 ## `manage_cred`
